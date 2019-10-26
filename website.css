@@ -1,0 +1,103 @@
+body {
+    background-color: #eeeeee;
+    margin: 0;
+}
+
+.tag {
+    display: none;
+}
+
+h1, h2, h3, h4, h5, h6, h7, h8, h9 {
+    //padding: 0.1em;
+    //margin: 0.2em;
+    margin: 15px 25px;
+    font-family: fixed;
+}
+
+h1.title {
+    background-color: purple;
+    color: white;
+    font-size: 2.0em;
+    text-align: left;
+    top: 0;
+    left: 0;
+    width: 100%;
+    margin-top:0;
+    vertical-align: baseline;
+}
+
+h2 {
+    color: blue;
+    font-size: 1.9em;
+}
+
+h3 {
+    color: orange;
+    font-size: 1.8em;
+}
+
+h4 {
+    color: purple;
+    font-size: 1.7em;
+}
+
+h5 {
+    color: red;
+    font-size: 1.6em;
+}
+
+h6 {
+    color: green ;
+    font-size: 1.5em;
+}
+
+h7 {
+    color: lightblue ;
+    font-size: 1.4em;
+}
+
+h8 {
+    color: darkblue ;
+    font-size: 1.35em;
+}
+
+h9 {
+    color: brown;
+    font-size: 1.3em;
+}
+
+h1::before {
+    content: "•";
+}
+
+h2::before {
+    content: "••";
+}
+
+h3::before {
+    content: "•••";
+}
+
+h4::before {
+    content: "••••";
+}
+
+h5::before {
+    content: "•••••";
+}
+
+h6::before {
+    content: "••••••";
+}
+
+h7::before {
+    content: "•••••••";
+}
+
+h8::before {
+    content: "••••••••";
+}
+
+h9::before {
+    content: "•••••••••";
+}

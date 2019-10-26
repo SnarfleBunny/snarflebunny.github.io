@@ -1,0 +1,32 @@
+#+TITLE: code 123
+#+DATE: <2019-10-26>
+#+AUTHOR: snarflebunny
+#+OPTIONS: ':t *:t -:t ::t <:t H:9 \n:nil ^:t arch:headline author:t c:t
+#+OPTIONS: creator:comment d:(not LOGBOOK) date:t e:t email:nil f:t inline:t
+#+OPTIONS: num:nil p:nil pri:nil stat:t tags:t tasks:t tex:t timestamp:t toc:t
+#+OPTIONS: todo:t |:t
+#+CREATOR: Emacs 24.3.50.3 (Org mode 8.0.3)
+#+DESCRIPTION: it explians how to write orgmode
+#+EXCLUDE_TAGS: noexport
+#+KEYWORDS: coding, document, orgmode, code 123  
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="website.css" />
+
+
+
+* snarflebunny wants to build a website                            
+
+* title
+** subtitle
+*** third heading
+**** forth heading
+***** fifth heading
+****** sixth heading
+******* seventh heading
+******** eighth heading
+
+
+** how to make a game
+** how to make a website
+** how to make a document
